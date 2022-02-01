@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @josenildocorreiati
-- 👀 I’m interested in  aprender PHP Laravel
+- 👀 I’m interested in  to learn PHP Laravel
 - 🌱 I’m currently learning  PHP 
-- 💞️ I’m looking to collaborate on meu crecimento
+- 💞️ I’m looking to collaborate on my growth
 - 📫 How to reach me ...
 
 <!---
